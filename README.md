@@ -30,6 +30,7 @@ The goal of this project is to analyze iPhone sales data, identify trends, and d
 - Interactive visualizations to explore sales performance over time.
 - Key metrics highlighting the sales distribution and customer behavior.
 <br>
+
 ## How to Use
 - Clone the repository:git clone https://github.com/pankajraghav15/iPhone-Sales-Analysis.git
 - Navigate to the project directory:cd iPhone-Sales-Analysis
